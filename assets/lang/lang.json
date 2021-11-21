@@ -1,0 +1,50 @@
+{
+  "home": {
+    "about": "Немного обо мне",
+    "about_alt": "Кто Я?",
+    "work": "Чем занимаюсь",
+    "work_alt": "Работы",
+    "contact": "Хочешь связаться?",
+    "contact_alt": "Контакты"
+  },
+  "about": {
+    "find_me": "Места обитания:"
+  },
+  "work": {
+    "no_projects": "Упс! Здесь ничего нет!",
+    "categories": "Категории",
+    "category_all": "Все",
+    "website": "Сайт",
+    "source": "Исходник"
+  },
+  "contact": {
+    "toast": {
+      "close": "Close"
+    },
+    "form": {
+      "name": "What's your name?",
+      "email": "What's your email?",
+      "message": "Please, explain yourself:",
+      "validation": {
+        "invalid_name": "Invalid name",
+        "invalid_email": "Invalid email",
+        "invalid_message": "Invalid message",
+        "invalid_grecaptcha": "Invalid gRecaptchaResponse",
+        "server_error": "Server reported an error",
+        "conection_error": "Connection Error",
+        "success": "Message sent successfully"
+      }
+    },
+    "loading": "Loading",
+    "send": "Send",
+    "sending": "Sending"
+  },
+  "404": {
+    "back_404": "На главную",
+    "text": "Извините, но данной страницы нет...",
+    "button_text": "Вернуться на главную"
+  },
+  "misc": {
+    "back": "Назад"
+  }
+}
